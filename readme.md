@@ -1,5 +1,5 @@
-# This is a simple loan calculator program built in Python to show the monthly installment required.
-
+# Python - Loan / Monthly Instalment Calculator 
+This is a simple loan calculator program built in Python to show the monthly installment required.
 Inputs are passed through `argument parser`:
 - Total amount `(--total_amount)`
 - Loan Period in years `(--years)`
