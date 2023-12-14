@@ -15,3 +15,10 @@ Expected Output (A JSON Object):
 ```
 {'downpayment': 42000.0, 'downpayment_percentage': 34.426, 'interest_rate': '2.54', 'loan_amount': 80000.0, 'loan_period': '5 years', 'monthly_instalment': 1502.67}
 ```
+
+Command for FastAPI:
+```
+uvicorn main:app --reload
+```
+
+NOTE: The FastAPI respond object is shown in `screenshots/fastapi_postman.png`
